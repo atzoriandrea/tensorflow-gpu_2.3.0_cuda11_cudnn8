@@ -6,7 +6,6 @@ If you need or simply want to download this version, click in the link below:
 
 https://drive.google.com/file/d/1GE98BwDzPyjCYLyRT4rmvteqbNZ7V14F/view?usp=sharing
 
-Please consider to star this repo.
 
 
 # Installation
