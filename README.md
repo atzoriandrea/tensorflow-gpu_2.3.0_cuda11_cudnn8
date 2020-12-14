@@ -9,7 +9,7 @@ https://drive.google.com/file/d/1GE98BwDzPyjCYLyRT4rmvteqbNZ7V14F/view?usp=shari
 Please consider to star this repo.
 
 
-#Installation
+# Installation
 
 Once you've downloaded the .whl file, execute command:
 ```bash
