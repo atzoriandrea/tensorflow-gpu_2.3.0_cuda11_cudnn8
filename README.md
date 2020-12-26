@@ -3,10 +3,13 @@ This is a compiled version of tensorflow-gpu for cuda 11.0 and cudnn 8.0, which 
 This version has been compiled with bazel 3.1.0 on python 3.6.
 
 # Download 
-If you need or simply want to download this version, click in the link below:
+If you need or simply want to download this version, click in one of the links below:
 
+(Compute Capabiluty: 7.5)
 https://drive.google.com/file/d/1weVL-2NcAQZbOQpPiezgX4BCCoiHNglA/view?usp=sharing
 
+(Compute Capabiluty: 6.1)
+https://drive.google.com/file/d/1-JIDAt0Dpq09AbpUGc9XpDM6JNarJR4c/view?usp=sharing
 
 # Installation
 
